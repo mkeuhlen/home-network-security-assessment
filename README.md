@@ -97,34 +97,6 @@ breakdown.*
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     ⚠️  DRAFT SECTION — DO NOT PUBLISH AS-IS  ⚠️
-     Every bracketed value below is a placeholder. Fill in only remediation you
-     have ACTUALLY completed, with real dates and real verification results.
-     Delete any row you have not done. If you have not started remediation yet,
-     delete this entire section rather than publishing unverified claims.
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## Remediation *(draft — complete before publishing)*
-
-An assessment that stops at findings is only half the work. This section tracks what was actually
-fixed and how it was verified.
-
-| Finding | Action Taken | Date | Verification |
-|---|---|---|---|
-| F-1 — Printer | *[e.g. device decommissioned and removed from network / SNMP disabled, unused print + file protocols disabled, admin password set, firmware updated]* | *[date]* | *[e.g. re-scan confirmed 0 open ports / Nmap re-scan shows N ports remaining]* |
-| F-2 — AP management | *[e.g. HTTPS-only management enforced; TLS 1.0/1.1 disabled; admin credentials rotated]* | *[date]* | *[e.g. re-scan confirms QID 86763 no longer detected]* |
-| F-3 — Firmware / inventory | *[e.g. pfSense updated 25.07.1 → 26.03.1; DHCP migrated ISC → Kea; GUI certificate replaced; both unknown devices identified and given static mappings]* | *[date]* | *[e.g. re-scan; asset inventory now complete at N/N devices]* |
-| P-1 — Physical | *[e.g. network hardware relocated to lockable enclosure]* | *[date]* | *[e.g. visual verification]* |
-| W-1 / W-2 — Wireless | *[e.g. IoT VLAN created; WPA3 transition mode enabled / hardware replacement scheduled]* | *[date]* | *[date]* |
-
-**Post-remediation re-scan:** *[Summarize: confirmed findings reduced from 44 to N. Attach or
-summarize the delta.]*
-
-<!-- END DRAFT SECTION -->
-
----
-
 ## Skills Demonstrated
 
 - **Engagement scoping and authorization** — drafting and executing a Rules of Engagement with
@@ -169,6 +141,6 @@ de-identified summary is published in its place.
 
 ## Contact
 
-**Michael Keuhlen** — m.keuhlen@proton.me
+**Michael Keuhlen** — michael.keuhlen@proton.me
 
 *CompTIA A+ · CompTIA Security+ · Qualys VMDR Specialist*
